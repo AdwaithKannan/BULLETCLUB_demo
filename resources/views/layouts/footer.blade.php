@@ -27,9 +27,9 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Contacts</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contacts</a></li>
               
             </ul>
           </div>
@@ -37,15 +37,18 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Accessories</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Spare parts</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Painting & Polishing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tyre works</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Live services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/accessories">Accessories</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/accessories">Spare parts</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Painting & Polishing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Tyre works</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Live services</a></li>
             </ul>
           </div>
 
          
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+          <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          </div>
 
         </div>
       </div>

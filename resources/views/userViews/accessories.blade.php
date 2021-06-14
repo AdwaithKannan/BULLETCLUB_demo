@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Inner Page - Gp Bootstrap Template</title>
+  <title>BULLETCLUN- Accessories & Spares</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.jpg" rel="icon">
+  <link href="assets/img/apple-touch-icon.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -51,6 +51,20 @@
           <li><a href="./">Home</a></li>
           <li><a href="./#about">About</a></li>
           <li><a href="./#services">Services</a></li>
+          <li class="drop-down"><a href="">Accessories & Spares</a>
+            <ul>
+            <li> <a href="#protection">Protection</a></li>
+            <li> <a href="#seat">Seats</a></li>
+            <li> <a href="#bodywork">BodyWork</a></li>
+            <li> <a href="#luggage">Luggage</a></li>
+            <li> <a href="#engine">Engine</a></li>
+            <li> <a href="#security">Security&Maintanance</a></li>
+            <li> <a href="#control">Contols</a></li>
+            <li> <a href="#wheels">Wheels</a></li>
+                </ul>
+              </li>
+              
+         
           <li><a href="./#team">Team</a></li>
           <li><a href="./#contact">Contact</a></li>
 
@@ -69,29 +83,106 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>ACCESSORIES</h2>
-          <ol>
-            <li><a href="./">Home</a></li>
-            <li>Accessories
-
+          <h2>ACCESSORIES & SPARES</h2>
+       
       </div>
     </section><!-- End Breadcrumbs -->
 
-    
+    <!-- ========protection======== -->
 
  
-  <section id="portfolio" class="portfolio">
+  <section id="protection" class="portfolio">
+      <div class="container" data-aos="fade-up">
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Protection</p>
+        </div>
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Master Cylinder Guard</h4>
+                <p>INR 700 </p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P2.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Silver Oil Cooler Guard</h4>
+                <p>INR 1250</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P3.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Fork Gaitors</h4>
+                <p>INR 850</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P4.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Fork Gaitors</h4>
+                <p>INR:3550</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Trapezium Engine Guard</h4>
+                <p>INR 3550</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/P6.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Silver Octagon Engine Guard</h4>
+                <p>INR 2500</p>
+                
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+      </div>
+    </section>
+    <!--==========protection======== -->
+    <!--=========seat=======-->
+  <section id="seat" class="portfolio">
       <div class="container" data-aos="fade-up">
 
-        
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Seat</p>
+        </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/S1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Silver oil cooler</h4>
+                <h4>Black Touring Rider Seat</h4>
                 <p>INR 1250</p>
                 </div>
             </div>
@@ -99,84 +190,210 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/S2.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>silver mastercylinder guard</h4>
-                <p>INR:700</p>
+                <h4>Black Touring Passenger Seat</h4>
+                <p>INR:1850</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/S3.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4></h4>
-                <p></p>
+                <h4>Black Passenger Backrest Mounts</h4>
+                <p>INR 2750</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/S4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Premium Touring Dual Seat</h4>
+                <p>INR 750</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/S5.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Touring Dual Seat</h4>
+                <p>INR 3900</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/S6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Low Ride Rider Seat</h4>
+                <p>INR:2950</p>
+                
+              </div>
+            </div>
+          </div>
+
+        
+
+        </div>
+
+      </div>
+    </section>
+    <!--=======seat===========-->
+
+
+    <!--========bodywork=========-->
+  <section id="bodywork" class="portfolio">
+      <div class="container" data-aos="fade-up">
+ <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Body Work</p>
+        </div>
+        
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/B1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Bar End Finishers</h4>
+                <p>INR 1200</p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/B2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Bar End Finishers</h4>
+                <p>INR 1100</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/B3.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Bar End Finishers</h4>
+                <p>INR 800</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/B4.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Black master cylinder guard</h4>
-                <p>INR:700</p>
+                <p>INR 700</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/B5.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Black oil cooler guard</h4>
-                <p>INR:1250</p>
+                <h4>Black Handlebar Brace Pad</h4>
+                <p>INR 600</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/B6.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Black fork gaitors</h4>
-                <p>INR:850</p>
+                <h4>Black Magic Flyscreen</h4>
+                <p>INR 2200</p>
                 
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+    <!--====== Bodywork ======== -->
+    <!-- ======== luggage ========-->
+      <section id="luggage" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Luggage</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/L1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Adventure Waterproof Inner Bags</h4>
+                <p>INR 2500</p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/L2.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Rear Rack</h4>
+                <p>INR:2400</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/L3.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Right Hand Military Pannier Rail-Drum</h4>
+                <p>INR 1200</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a7.webp" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/L4.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Black airfly engine guard</h4>
-                <p>INR:3450</p>
-              
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Silver Trapezium engine guard</h4>
-                <p>INR:2250</p>
-                
+                <h4>Black Military Pannier Rails-Drum</h4>
+                <p>INR 1700</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/a9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/L5.webp" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Black Trapezium engine guard</h4>
-                <p>INR:2100</p>
-               
+                <h4>Black Military Panniers</h4>
+                <p>INR 5500</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/L6.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Military Pannier Rails-Drum</h4>
+                <p>INR 1700</p>
+                
               </div>
             </div>
           </div>
@@ -185,6 +402,246 @@
 
       </div>
     </section>
+
+<!--======= luggage========== -->
+   <!--==== Engine =========--> 
+  <section id="engine" class="portfolio">
+      <div class="container" data-aos="fade-up">
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Engine</p>
+        </div>
+        
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Intake Covers</h4>
+                <p>INR 1350</p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E2.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Tapered End Cap</h4>
+                <p>INR 650</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Oil Filler Cap</h4>
+                <p>INR 900</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E4.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Silver Tappet Cover</h4>
+                <p>INR:800</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Silver Tappet Cover</h4>
+                <p>INR 3800</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/E6.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Silver Straightcut Silencer</h4>
+                <p>INR 3750</p>
+                
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+
+<!--======== Engine ====== -->
+<!-- ======== security & Maintanance ====== -->
+    
+  <section id="security" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Security & Maintainance</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/SM1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Swingarm Bobbins</h4>
+                <p>INR 900</p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/SM2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Water Resistant Bike Cover</h4>
+                <p>INR 1000</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/SM3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4> Water Resistant Bike Cover</h4>
+                <p>INR 1000</p>
+              </div>
+            </div>
+          </div>
+
+          
+
+        </div>
+
+      </div>
+    </section>
+
+<!-- ======= security ======== -->
+<!-- =======control======= -->
+
+    
+  <section id="control" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Control</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Adventure Handlebar</h4>
+                <p>INR 2500</p>
+                </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C2.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Handlebar Clamp</h4>
+                <p>INR 1950</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Bar End Mirrors</h4>
+                <p>INR 4700</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C4.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Touring Mirrors</h4>
+                <p>INR 4750</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C5.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Bar End Mirror Mounts</h4>
+                <p>INR 550</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/C6.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Handlebar Brace Pad</h4>
+                <p>INR 650</p>
+                
+              </div>
+            </div>
+          </div>
+
+          
+
+        </div>
+
+      </div>
+    </section>
+
+    <!--======control ====-->
+    <!--======= Wheels =======-->
+  <section id="wheels" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+          <h2>Accessories & Spares</h2>
+          <p>Wheels</p>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/W1.webp" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Black Alloy Wheels-Dual</h4>
+                <p>INR 11250</p>
+                </div>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+<!-- wheels -->
     </main><!-- End #main -->
  <!-- ======= Footer ======= -->
  <footer id="footer">
@@ -214,10 +671,10 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Contacts</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#contact">Contacts</a></li>
               
             </ul>
           </div>
@@ -225,21 +682,16 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Accessories</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Spare parts</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Painting & Polishing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tyre works</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Live services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/accessories">Accessories</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/accessories">Spare parts</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Painting & Polishing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Tyre works</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#contact">Live services</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-
+          <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
 
         </div>

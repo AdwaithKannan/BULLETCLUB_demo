@@ -15,9 +15,6 @@ class pageController extends Controller
     {
         return view("userViews.accessories");
     }
-    public function spareparts()
-    {
-        return view("userViews.spareparts");
-    }
+    
 }
 
