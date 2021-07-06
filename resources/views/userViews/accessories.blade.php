@@ -42,9 +42,10 @@
   <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>
+           <!--<h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>-->
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <h1 class="logo"><a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid">&nbsp BULLET<span>CLUB</span></a></h1>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -65,7 +66,6 @@
               </li>
               
          
-          <li><a href="./#team">Team</a></li>
           <li><a href="./#contact">Contact</a></li>
 
         </ul>
@@ -653,10 +653,10 @@
             <div class="footer-info">
               <h3>BULLET<span>CLUB</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Bullet Club <br>
+                Calicut,Kerala<br><br>
+                <strong>Phone:</strong> +919988998899<br>
+                <strong>Email:</strong> info@bulletclub.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -707,7 +707,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">FIKADEVELOPERS</a>
+        Designed by <a href="https://fikadevelopers.com/">FIKADEVELOPERS</a>
       </div>
     </div>
   </footer><!-- End Footer -->

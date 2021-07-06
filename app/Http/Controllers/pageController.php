@@ -15,6 +15,14 @@ class pageController extends Controller
     {
         return view("userViews.accessories");
     }
-    
+
+    public function livemechanic()
+    {
+        return view("userViews.livemechanic");
+    }
+    public function washing()
+    {
+        return view("userViews.washing");
+    }
 }
 

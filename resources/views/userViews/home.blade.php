@@ -57,7 +57,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="assets/img/aboutpage.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
           <h1 class="logo"><a href="index.html">BULLET<span>CLUB</span></a></h1>
@@ -77,34 +77,20 @@
 
       </div>
     </section><!-- End About Section -->
-
+<br>
+<br>
     <!-- ======= Clients Section ======= -->
     <section id="clients" class="clients">
       <div class="container" data-aos="zoom-in">
 
         <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.jpg" alt="">
-          <img src="assets/img/clients/client-2.jpg" alt="">
-          <img src="assets/img/clients/client-3.jpg" alt="">
-          <img src="assets/img/clients/client-4.jpg" alt="">
-          <img src="assets/img/clients/client-5.jpg" alt="">
-          <img src="assets/img/clients/client-6.jpg" alt="">
-          <img src="assets/img/clients/client-7.jpg" alt="">
-          <img src="assets/img/clients/client-8.jpg" alt="">
-          <img src="assets/img/clients/client-9.jpg" alt="">
-          <img src="assets/img/clients/client-10.jpg" alt="">
-          <img src="assets/img/clients/client-11.jpg" alt="">
-          <img src="assets/img/clients/client-12.jpg" alt="">
-          <img src="assets/img/clients/client-13.jpg" alt="">
-          <img src="assets/img/clients/client-14.jpg" alt="">
-           <img src="assets/img/clients/client-15.jpg" alt="">
-          <img src="assets/img/clients/client-16.jpg" alt="">
-          <img src="assets/img/clients/client-17.jpg" alt="">
-          <img src="assets/img/clients/client-18.jpg" alt="">
-          <img src="assets/img/clients/client-19.jpg" alt="">
-          <img src="assets/img/clients/client-20.jpg" alt="">
-          <img src="assets/img/clients/client-21.jpg" alt="">
-          <img src="assets/img/clients/client-22.jpg" alt="">
+          <img src="assets/img/clients/client1.jpg" alt="">
+          <img src="assets/img/clients/client2.jpg" alt="">
+          <img src="assets/img/clients/client3.jpg" alt="">
+          <img src="assets/img/clients/client4.jpg" alt="">
+          <img src="assets/img/clients/client5.jpg" alt="">
+          <img src="assets/img/clients/client6.jpg" alt="">
+          
         </div>
 
       </div>
@@ -119,55 +105,33 @@
           <h2>Services</h2>
           <p>Check our Services</p>
         </div>
-
+        <a href="/accessories">
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-wrench"></i></div>
-              <h4><a href="/accessories"> ACCESSORIES</a></h4>
+              <h4><a href="/accessories"> ACCESSORIES&SPARES</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
-          </div>
-
+          </div></a>
+         
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-wrench"></i></div>
-              <h4><a href="/accessories">SPARE PARTS</a></h4>
+            <div class="icon-box"> <a href="/livemechanic">
+              <div class="icon"><i class="bx bx-cog"></i></div>
+              <h4><a href="/livemechanic">LIVE MECHANIC SERVICE</a></h4>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
-          </div>
+          </div></a>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-wrench"></i></div>
-              <h4><a href="">SERVICE</a></h4>
+            <div class="icon-box"><a href="/washing">
+              <div class="icon"><i class="bx bx-brush"></i></div>
+              <h4><a href="/washing">WASHING&POLISHING</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
-          </div>
+          </div></a>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-paint"></i></div>
-              <h4><a href="">PAINTING</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-paint"></i></div>
-              <h4><a href="">POLISHING</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-wrench"></i></div>
-              <h4><a href="">LIVE SERVICE</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-            </div>
-          </div>
+          
 
         </div>
 
@@ -343,7 +307,7 @@
     
 
     
-    <!-- ======= Team Section ======= -->
+    <!-- ======= Team Section =======
     <section id="team" class="team">
       <div class="container" data-aos="fade-up">
 
@@ -429,7 +393,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section> End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -451,19 +415,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Bullet Club,Calicut,Kerala</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@bulletclub.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+919988998899</p>
               </div>
 
             </div>

@@ -8,10 +8,10 @@
             <div class="footer-info">
               <h3>BULLET<span>CLUB</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Bullet club <br>
+                     Calicut,Kerala<br><br>
+                <strong>Phone:</strong> +919988998899<br>
+                <strong>Email:</strong> info@bulletclub.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -63,7 +63,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">FIKADEVELOPERS</a>
+        Designed by <a href="https://fikadevelopers.com/">FIKADEVELOPERS</a>
       </div>
     </div>
   </footer><!-- End Footer -->

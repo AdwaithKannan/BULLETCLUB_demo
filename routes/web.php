@@ -16,5 +16,7 @@ use App\Http\Controllers\contactController;
 
 Route::get("/",'App\Http\Controllers\pageController@index');
 Route::get("/accessories",'App\Http\Controllers\pageController@accessories');
+Route::get("/livemechanic",'App\Http\Controllers\pageController@livemechanic');
+Route::get("/washing",'App\Http\Controllers\pageController@washing');
 Route::get("/contact",[contactController::class,'contact']);
 Route::post("/send-message",[contactController::class,'sendEmail'])->name('contact.send');
